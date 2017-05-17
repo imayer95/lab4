@@ -26,7 +26,7 @@ public class LaboratoryTest {
     public void getNumber() throws Exception {
         assertEquals("getNumber crapat", 1,l1.getNumber());
         assertEquals("getNumber crapat",2,l2.getNumber());
-        long i =999999;
+        long i =999;
     }
 
     @org.junit.Test
